@@ -1,1 +1,1 @@
-# UW-Amazon-Hololens
+# UW Amazon DeepLens Hackathon
